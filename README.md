@@ -1,5 +1,5 @@
 # L1T2-CSE107
-All in one for CSE OOP sessional
+All in one for CSE OOP sessional. If you want to contribute create a pull request (Learn how to contribute in a github project). Or if you have any problems, create a issue. 
 
 ## All in one 
 
