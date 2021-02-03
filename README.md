@@ -44,12 +44,16 @@ Some of them are bit more helpful like,
 
 - [AKash](https://github.com/MJKSabit/AKash) - By Md. Jehadul Karim
 - [Share-A-BIT-Android](https://github.com/MJKSabit/Share-A-BIT-Android) - By Md. Jehadul Karim
+- [Java-Messenger](https://github.com/MJKSabit/java-messenger) - By Md. Jehadul Karim
 - [Tuition-E](https://github.com/TamimEhsan/Tuition-E) - By Md. Tamimul Ehsan
+- [Chess](https://github.com/ezmata-101/Chess) - By Mobaswirul Islam
+- [Qube](https://github.com/akib-89/Qube) - By Akibur Rahman
 - [RSA-Cryptography](https://github.com/hishamcse/RSA-Cryptography) - By Syed Jarullah Hisham
 - [FtpServer-Client](https://github.com/ashiqursuperfly/FtpServer-Client) - By Ashiqur Rahman
 - [Online-Judge-Project](https://github.com/ags3927/Online-Judge-Project) -By Aniruddha Ganguly
 - [BanglaSearchEngine_Onnesha_](https://github.com/KAIMonmoy/BanglaSearchEngine_Onnesha_) -By KAIMonmoy
 - [Online_Notepad_JavaFX](https://github.com/AwsafAlam/Online_Notepad_JavaFX) -By Md Awsaf Alam
 - [FtpServerForCSE108](https://github.com/TasinIshmam/FtpServerForCSE108) - By Tasin Ishmam
+- [FX-MCQ](https://github.com/mehrab-haque/fx_mcq) - By Md. Mehrab Haque
 
 
