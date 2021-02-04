@@ -1,4 +1,4 @@
-# L1T2-CSE107
+# L1T2-CSE108
 All in one for CSE OOP sessional. If you want to contribute create a pull request (Learn how to contribute in a github project). Or if you have any problems, create a issue. 
 
 ## All in one 
@@ -23,7 +23,7 @@ Some of them are bit more helpful like,
 
 ### Project Ideas
 
-- Multiplayer board games like chess
+- Multiplayer board games like chess, 8 ball pool. 
 - Online Judge similar to PC2. (For online and offline evaluation in sessional)
 - TypeRacer over local network and practice [http://play.typeracer.com/](http://play.typeracer.com/?fbclid=IwAR02LnLLZOZwwtczOdNc1jRtLUC2-lgnWnuenGJLFKkABgfQbqyUpbzx4es) 
 - GRE word practice (example: magoosh flash card) 
@@ -46,12 +46,12 @@ Some of them are bit more helpful like,
 - [Share-A-BIT-Android](https://github.com/MJKSabit/Share-A-BIT-Android) - By Md. Jehadul Karim
 - [Java-Messenger](https://github.com/MJKSabit/java-messenger) - By Md. Jehadul Karim
 - [Tuition-E](https://github.com/TamimEhsan/Tuition-E) - By Md. Tamimul Ehsan
-- [Chess](https://github.com/ezmata-101/Chess) - By Mobaswirul Islam
+- [Chess](https://github.com/ezmata-101/Chess) - By Mobaswirul Islam & Shehabul Islam Sawraz
 - [Qube](https://github.com/akib-89/Qube) - By Akibur Rahman
 - [RSA-Cryptography](https://github.com/hishamcse/RSA-Cryptography) - By Syed Jarullah Hisham
 - [FtpServer-Client](https://github.com/ashiqursuperfly/FtpServer-Client) - By Ashiqur Rahman
 - [Online-Judge-Project](https://github.com/ags3927/Online-Judge-Project) -By Aniruddha Ganguly
-- [BanglaSearchEngine_Onnesha_](https://github.com/KAIMonmoy/BanglaSearchEngine_Onnesha_) -By KAIMonmoy
+- [BanglaSearchEngine_Onnesha_](https://github.com/KAIMonmoy/BanglaSearchEngine_Onnesha_) -By Khondokar Aftarul Islam
 - [Online_Notepad_JavaFX](https://github.com/AwsafAlam/Online_Notepad_JavaFX) -By Md Awsaf Alam
 - [FtpServerForCSE108](https://github.com/TasinIshmam/FtpServerForCSE108) - By Tasin Ishmam
 - [FX-MCQ](https://github.com/mehrab-haque/fx_mcq) - By Md. Mehrab Haque
