@@ -54,6 +54,8 @@ Some of them are bit more helpful like,
 - [BanglaSearchEngine_Onnesha_](https://github.com/KAIMonmoy/BanglaSearchEngine_Onnesha_) -By Khondokar Aftarul Islam
 - [Online_Notepad_JavaFX](https://github.com/AwsafAlam/Online_Notepad_JavaFX) -By Md Awsaf Alam
 - [FtpServerForCSE108](https://github.com/TasinIshmam/FtpServerForCSE108) - By Tasin Ishmam
+- [Moodle](https://github.com/thr0m3l/Moodle) - By Tanzim Hossain Romel
 - [FX-MCQ](https://github.com/mehrab-haque/fx_mcq) - By Md. Mehrab Haque
+- [JavaFx Parlour Management System with Ms sql serve](https://github.com/Amimul1234/Java-Fx-with-ms-sql-server-parlour-management?fbclid=IwAR2g53sy4bwa6zGOl_qXs2ydpJAx47Wfft7yCVvqCQmYK__OkYwtkcysGuk) - Amimul Ehsan 
 
 
