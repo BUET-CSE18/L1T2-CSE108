@@ -57,5 +57,6 @@ Some of them are bit more helpful like,
 - [Moodle](https://github.com/thr0m3l/Moodle) - By Tanzim Hossain Romel
 - [FX-MCQ](https://github.com/mehrab-haque/fx_mcq) - By Md. Mehrab Haque
 - [JavaFx Parlour Management System with Ms sql serve](https://github.com/Amimul1234/Java-Fx-with-ms-sql-server-parlour-management?fbclid=IwAR2g53sy4bwa6zGOl_qXs2ydpJAx47Wfft7yCVvqCQmYK__OkYwtkcysGuk) - Amimul Ehsan 
+- [Durbeen--The-Dawn-of-Programming](https://github.com/zarif98sjs/Durbeen--The-Dawn-of-Programming-) - Sheikh Azizul Hakim(1705002)  & Md. Zarif Ul Alam(1705010)
 
 
